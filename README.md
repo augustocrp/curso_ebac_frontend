@@ -1,2 +1,2 @@
 # curso_ebac_frontend
- Exercício do módulo 2
+ Exercício do módulo 3
